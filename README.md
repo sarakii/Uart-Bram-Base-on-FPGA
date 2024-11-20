@@ -4,7 +4,7 @@
 ## 实验截图<br>
 ### 向串口发送16帧数据，接收到相同的数据。<br>
 ![Snipaste_2024-11-20_20-06-51](https://github.com/user-attachments/assets/dffc7f21-ad0e-415a-900a-5b0d2ac992c7)<br>
-以10ms为间隔，每帧发送16个数据，发送160次，共发送2560个数据，经检验，发送与接收数据一致，无错误。<br>
+### 以10ms为间隔，每帧发送16个数据，发送160次，共发送2560个数据，经检验，发送与接收数据一致，无错误。<br>
 ![Snipaste_2024-11-20_20-11-24](https://github.com/user-attachments/assets/134ddfcc-ef57-45fb-88af-617a24a165d6)
 ![Snipaste_2024-11-20_20-13-02](https://github.com/user-attachments/assets/14e0731b-ca61-4df0-9454-498297901aa3)
 ## 后续计划
